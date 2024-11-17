@@ -62,3 +62,8 @@ print(b12_ci_wts)
 
 print((res_unw[["b1.pval","b2.pval"]]< alpha).mean())
 print((res_wts[["b1.pval","b2.pval"]]< alpha).mean())
+
+
+#git add .
+#git commit -m "mensagem"
+#git push
